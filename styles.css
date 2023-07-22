@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+
+.items{
+	display:flex;
+}
+.item-1{
+	justify-content:"center";
+	align-items:"center";
+}
